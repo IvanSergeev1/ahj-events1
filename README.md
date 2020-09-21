@@ -1,4 +1,6 @@
+Ссылка на проект (https://ivansergeev1.github.io/ahj-events1/)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/tksbkj4f3dmyd2vh?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-events1)
 ### Игра с гоблинами
 
 ![](https://github.com/netology-code/ahj-homeworks/blob/master/events/pic/GracefulMiniatureBustard-small.gif)
